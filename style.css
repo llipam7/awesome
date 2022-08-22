@@ -1,0 +1,59 @@
+.container {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin: 0 auto;
+    width: 1170px;
+    height: 665px;
+    top: 1853px;
+    left: 171px;
+}
+.item {
+    text-align: center;
+    width: 1170px;
+    height: 150px;
+    top: 1853px;
+    left: 171px;
+    font-size: 36px;
+    color: #000000;
+    box-sizing: border-box;
+}
+.items {
+    text-align: center;
+    width: 1169px;
+    height: 21px;
+    top: 2043px;
+    left: 172px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21.13px;
+    color: #86878b;
+    }
+.button {
+    display: inline-block;
+    width: 370px;
+    height: 383px;
+    vertical-align: bottom;
+    }
+.over {
+    margin-top: 150px;
+}
+.image {
+    color: palevioletred;
+}
+.name {
+    font-family: 'Open Sans';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.68px;
+    align-self: center;
+    width: 369px;
+    height: 100px;
+}
+.something {
+    width: 370px;
+    height: 105px;
+    line-height: 21.13px;
+    align: center;
+    color: #000000;
+}
